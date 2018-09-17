@@ -1,0 +1,2 @@
+# smtpcenter
+wscenter(smtp)
